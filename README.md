@@ -63,4 +63,10 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 إن أردت المساهمة: افعل Fork للمستودع، اعمل فرعًا للتطوير، شغل `flutter analyze` ثم افتح Pull Request.
 
+
+📫 Contact
+Email: alslaheziad@gmail.com
+mobile : +967 778 550 208
+GitHub: github.com/alslaheziad-cpu
+
 ---
